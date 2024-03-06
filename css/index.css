@@ -1,0 +1,112 @@
+#principal{
+    width: 800px;
+    height: 2000px;
+    background-color: purple;
+    margin: 0px;
+}
+#cara{
+    background-color: aliceblue;
+    width: 490px;
+    height: 410px;
+    border: 2px solid black;
+    border-radius: 200px;
+    position: relative;
+    margin:0 auto;
+    
+}
+#ojos{
+    
+    width: 500px;
+    height: 150px;
+    position: relative;
+    top: 50px;
+}
+#nariz{
+    
+    width: 500px;
+    height: 100px;
+    position: relative;
+    top: 20px;
+    
+}
+#boca{
+    
+    width: 500px;
+    height: 150px;
+    position: absolute;
+    top: 235px;
+    
+}
+#ojo1{
+    background-color: rgb(255, 255, 255);
+    width: 50px;
+    height: 100px;
+    position: relative;
+    margin:  0 auto;
+    left: -50px;
+    top:50px;
+    border: 2px solid black;
+    border-radius: 10px;
+    
+    
+}
+#ojo2{
+    background-color: rgb(255, 255, 255);
+    width: 50px;
+    height: 100px;
+    position: relative;
+    margin:  0 auto;
+    left: 50px;
+    top:-50px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#nariz1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    margin: 0 auto;
+    border: 3px solid black;
+    border-radius: 40px;
+}
+#boca1{
+    width: 200px;
+    height: 150px;
+    background-color: aliceblue;
+    border: 2px solid black;
+    border-radius: 30px;
+    position: relative;
+    margin: 0 auto;
+
+}
+#iris{
+    background-color: black;
+    width: 20px;
+    height: 50px;
+    position: relative;
+    margin:  50px auto;
+    border-radius: 3px;
+
+}
+#labios{
+    width: 75px;
+    height: 8px;
+    background-color: black;
+    position: relative;
+    margin: 80px auto;
+}
+#sombrero1{
+    width: 200px;
+    height: 100px;
+    background-color: black;
+    margin: 0 auto;
+}
+#sombrero2{
+    width: 400px;
+    height: 50px;
+    background-color: black;
+    position: relative;
+    margin: 0 auto;
+    
+}
